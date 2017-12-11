@@ -46,6 +46,7 @@ def get_application(feeder_config, conn_config, db_setup_f=None):
             'http://feeds.feedburner.com/Tombuntu',
             'https://mtomwing.com/blog/feed',
             'http://awesome-blog.github.io/atom.xml',
+            'https://feeds.feedburner.com/graphiceat',
             'http://www.reddit.com/r/Android/.rss',
             'http://www.reddit.com/.rss',
             'http://feeds2.feedburner.com/Line25',
